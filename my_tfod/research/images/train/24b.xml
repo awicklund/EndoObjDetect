@@ -1,0 +1,26 @@
+<annotation>
+	<folder>f_709</folder>
+	<filename>peritoneum_a_121.png</filename>
+	<path>C:\Users\awick\Desktop\Glenda\annotations\v_112_s_709-709\f_709\peritoneum_a_121.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>endometriosis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>252</xmin>
+			<ymin>128</ymin>
+			<xmax>325</xmax>
+			<ymax>189</ymax>
+		</bndbox>
+	</object>
+</annotation>

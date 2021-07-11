@@ -1,0 +1,26 @@
+<annotation>
+	<folder>f_872</folder>
+	<filename>ovary_a_750.png</filename>
+	<path>C:\Users\awick\Desktop\Glenda\annotations\v_4371_s_872-977\f_872\ovary_a_750.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>endometriosis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>122</xmin>
+			<ymin>131</ymin>
+			<xmax>216</xmax>
+			<ymax>242</ymax>
+		</bndbox>
+	</object>
+</annotation>

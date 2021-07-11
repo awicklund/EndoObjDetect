@@ -1,0 +1,26 @@
+<annotation>
+	<folder>f_688</folder>
+	<filename>peritoneum_a_632.png</filename>
+	<path>C:\Users\awick\Desktop\Glenda\annotations\v_2404_s_688-855\f_688\peritoneum_a_632.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>endometriosis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>186</xmin>
+			<ymin>95</ymin>
+			<xmax>266</xmax>
+			<ymax>181</ymax>
+		</bndbox>
+	</object>
+</annotation>

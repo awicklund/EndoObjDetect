@@ -1,0 +1,12 @@
+0. Move faster_rcnn folder to Desktop
+
+1. Go to https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2_detection_zoo.md
+
+2. Save Faster R-CNN Inception ResNet V2 1024 x1024 link as gz file
+
+3. Extract the file twice into research
+
+4. You may delete the folder faster_rcnn on Desktop.
+
+This gz file was too large to include in the repository. The included file should include 
+the .config, .tar, and starting checkpoints. Enjoy modeling!   
