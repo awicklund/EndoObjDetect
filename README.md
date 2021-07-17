@@ -3,7 +3,7 @@ A TensorFlow-centered approach to object detection using Faster R-CNN to detect 
 
 Model used: Faster R-CNN Inception ResNet V2 1024 x1024
 
-Implemented on Google Colab on High RAM, GPU accelerated environment
+Implemented on Google Colab on High-RAM, GPU-accelerated environment
 
 Some of the images that were produced:
 
