@@ -1,0 +1,26 @@
+<annotation>
+	<folder>f_1299</folder>
+	<filename>1.png</filename>
+	<path>C:\Users\awick\Desktop\Glenda\annotations\v_7_s_1299-1299\f_1299\1.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>endometriosis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>366</xmin>
+			<ymin>23</ymin>
+			<xmax>416</xmax>
+			<ymax>78</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>f_55</folder>
+	<filename>die_a_737.png</filename>
+	<path>C:\Users\awick\Desktop\Glenda\annotations\v_4253_s_55-162\f_55\die_a_737.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>endometriosis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>158</xmin>
+			<ymin>12</ymin>
+			<xmax>628</xmax>
+			<ymax>356</ymax>
+		</bndbox>
+	</object>
+</annotation>

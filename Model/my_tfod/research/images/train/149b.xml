@@ -1,0 +1,26 @@
+<annotation>
+	<folder>f_733</folder>
+	<filename>uterus_a_640.png</filename>
+	<path>C:\Users\awick\Desktop\Glenda\annotations\v_2607_s_733-758\f_733\uterus_a_640.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>endometriosis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>16</xmin>
+			<ymin>81</ymin>
+			<xmax>200</xmax>
+			<ymax>206</ymax>
+		</bndbox>
+	</object>
+</annotation>
