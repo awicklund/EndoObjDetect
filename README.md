@@ -14,12 +14,19 @@ Endometriosis is a painful condition where the tissues produced inside the uteru
 The files are organized as follows:
 
 **Finished examples** - contains 10 example images and 10 doctor-annotated example images (alpha channel)
+
 **Graphs** - graphs displaying model information provided by Tensorboard
-**Model** - contains both important outputs (Endo), as well as test data (Endo) and inputs (my_tfod) 
+
+**Model** - contains both important outputs (Endo), as well as test data (Endo) and inputs (my_tfod)
+
 **Endometriosis Modeling 101** - user-friendly document that describes the model for the general public
+
 **My_Code.ipynb** - the Jupyter Notebook that I used to create the model
+
 **Slide_Deck.pptx** - the Powerpoint used in presenting the model
+
 **Technical_Documentation** - a write-up designed for data scientists, contains technical jargon
+
 **Tutorial_Used** - the tutorial I referenced in creating and running the model
 
 
