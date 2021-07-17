@@ -4,6 +4,7 @@ Model used: Faster R-CNN Inception ResNet V2 1024 x1024
 Implemented on Google Colab on High RAM, GPU accelerated environment
 
 Some of the images that were produced:
+
 ![alt text](https://github.com/awicklund/EndoObjDetect/blob/main/Finished%20examples/4.png)
 ![alt text](https://github.com/awicklund/EndoObjDetect/blob/main/Finished%20examples/73.png)
 ![alt text](https://github.com/awicklund/EndoObjDetect/blob/main/Finished%20examples/51.png)
