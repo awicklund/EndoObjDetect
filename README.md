@@ -13,6 +13,9 @@ Some of the images that were produced:
 
 Endometriosis is a painful condition where the tissues produced inside the uterus to protect a fertilized egg grow outside the uterus. This is the first publically available image study of endometriosis and the model is designed to detect endometrial tissues on and around the uterus.
 
+The loss graph is provided by Tensorboard as the model is training:
+![alt text](https://github.com/awicklund/EndoObjDetect/blob/main/Graphs/Total%20loss.png)
+
 The files are organized as follows:
 
 **Finished examples** - contains 10 example images and 10 doctor-annotated example images (alpha channel)
