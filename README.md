@@ -1,5 +1,5 @@
 # EndoObjDetect
-*This repository is HIPAA compliant. All sensitive and identifying patient information has been removed prior to publishing.
+*This repository is HIPAA compliant. All sensitive and identifying patient information has been removed prior to publishing.*
 
 A TensorFlow-centered approach to object detection using Faster R-CNN to detect endometriosis on the GLENDA database
 
